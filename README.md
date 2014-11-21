@@ -92,12 +92,19 @@ This test actually works...
     }
 
 
+Installation
+-----------------
+
+Simply copy RealmEasy*.* to your project.
+
 
 Status
 -----------
 
-The current status of RealmEasy is : "It works for me...".
-Any ideas, fixes, additions are welcome. Please just open a GitHub issue.
+The current status of RealmEasy is : "It works for me...". :-)
 
+This is still just a quick experiment. There are no guarantee that it works in all cases, 
+and that I have caught all places where the old defaultRealm was used.
 
+Any ideas, fixes and additions are welcome. Please just open a GitHub issue, or pull request.
 

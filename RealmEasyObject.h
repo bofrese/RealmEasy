@@ -3,7 +3,6 @@
 //  Realm Easy
 //
 //  Created by Bo Frese on 21/11-14.
-//  Copyright (c) 2014 I-Con.dk. All rights reserved.
 //
 
 #import "RealmEasy.h"
@@ -12,8 +11,8 @@
 
 +(instancetype)createInDefaultRealmWithObject:(id)object ;
 +(instancetype)createOrUpdateInDefaultRealmWithObject:(id)object ;
-+ (RLMResults *)allObjects ;
-+ (RLMResults *)objectsWithPredicate:(NSPredicate *)predicate ;
-+ (instancetype)objectForPrimaryKey:(id)primaryKey ;
++(RLMResults *)allObjects ;
++(RLMResults *)objectsWithPredicate:(NSPredicate *)predicate ;
++(instancetype)objectForPrimaryKey:(id)primaryKey ;
 
 @end

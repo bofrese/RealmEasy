@@ -3,10 +3,8 @@
 //  Realm Easy
 //
 //  Created by Bo Frese on 15/11-14.
-//  Copyright (c) 2014 I-Con.dk. All rights reserved.
 //
 
-//#import <Foundation/Foundation.h>
 #import <Realm.h>
 #import "RealmEasyObject.h"
 
