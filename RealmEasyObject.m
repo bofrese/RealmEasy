@@ -6,7 +6,6 @@
 //
 
 #import "RealmEasyObject.h"
-//#import "Constants.h"
 
 @implementation RealmEasyObject
 
